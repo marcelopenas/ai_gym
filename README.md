@@ -62,6 +62,9 @@ twine upload dist/*
 pip install aigyminsper
 ```
 
+You also may need to install [graphivz](https://graphviz.org/download/)
+
+
 ## Change log
 
 The change log of this library is in the [Changelog.md](./Changelog.md) file. 
